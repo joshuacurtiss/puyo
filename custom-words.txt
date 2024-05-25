@@ -1,0 +1,13 @@
+anims
+burgertime
+flatfloor
+horiz
+newdir
+nvmrc
+powerup
+powerups
+stairleft
+stairright
+stairtop
+stairtops
+unuse

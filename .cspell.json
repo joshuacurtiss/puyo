@@ -1,0 +1,21 @@
+{
+   "language": "en",
+   "enableGlobDot": true,
+   "ignorePaths": [
+      ".git",
+      ".gitignore",
+      ".vscode",
+      "dist",
+      "node_modules"
+   ],
+   "dictionaryDefinitions": [
+      {
+         "name": "custom-words",
+         "description": "Custom words for this project.",
+         "path": "./custom-words.txt"
+      }
+   ],
+   "dictionaries": [
+      "custom-words"
+   ]
+}
