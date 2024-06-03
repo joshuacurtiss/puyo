@@ -4,7 +4,7 @@
       "cspell": "cspell . --show-suggestions --no-progress",
       "standards": "npm run cspell",
       "start": "vite --host",
-      "test": "check-node-version --node 18.18.2 --npm 9.8.1",
+      "test": "check-node-version --node $(cat .nvmrc) --npm 10.5.0",
       "dev": "vite --host",
       "build": "vite build",
       "serve": "vite preview"
