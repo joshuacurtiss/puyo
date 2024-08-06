@@ -1,13 +1,10 @@
 anims
-burgertime
-flatfloor
+aseprite
 horiz
 newdir
 nvmrc
 powerup
 powerups
-stairleft
-stairright
-stairtop
-stairtops
+puyo
+puyopuyo
 unuse

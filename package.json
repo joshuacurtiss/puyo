@@ -1,5 +1,5 @@
 {
-   "name": "burgertime",
+   "name": "puyo",
    "scripts": {
       "cspell": "cspell . --show-suggestions --no-progress",
       "standards": "npm run cspell",

@@ -10,7 +10,7 @@
 npm run dev
 ```
 
-Will start a dev server at <http://localhost:5173/burgertime/>.
+Will start a dev server at <http://localhost:5173/puyo/>.
 
 ```sh
 npm run standards
